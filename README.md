@@ -8,13 +8,15 @@ Dry-electrode EEG hardware, and the software that talks to it.
 BROADMIND 8-channel headset. BrainFlow transport, OpenBCI-compatible, with CSV / EDF / JSON
 export. The README states plainly which paths are hardware-verified and which are not.
 
+**[broadmind-gui](https://github.com/BROADMIND-BCI/broadmind-gui)** — the OpenBCI GUI restyled to
+the BROADMIND brand system: black, white and one grey, set in Geometria, with functional colours
+(channel identity, error states) kept. A fork of `OpenBCI/OpenBCI_GUI`, MIT.
+
 ## References
 
-These are archived, unmodified forks of the upstream OpenBCI projects. They are kept because
-they are the protocol reference this work was built against — they are not products and are
-not maintained.
+Archived, unmodified forks of the upstream OpenBCI projects. They are kept because they are the
+protocol reference this work was built against — they are not products and are not maintained.
 
-- [BCI_GUI](https://github.com/BROADMIND-BCI/BCI_GUI)
 - [BCI_Cyton_Library](https://github.com/BROADMIND-BCI/BCI_Cyton_Library)
 - [BCI_Python](https://github.com/BROADMIND-BCI/BCI_Python)
 
