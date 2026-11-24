@@ -10,7 +10,8 @@ export. The README states plainly which paths are hardware-verified and which ar
 
 **[broadmind-gui](https://github.com/BROADMIND-BCI/broadmind-gui)** — the OpenBCI GUI restyled to
 the BROADMIND brand system: black, white and one grey, set in Geometria, with functional colours
-(channel identity, error states) kept. A fork of `OpenBCI/OpenBCI_GUI`, MIT.
+(channel identity, error states) kept. A standalone BROADMIND build of `OpenBCI/OpenBCI_GUI`
+(MIT); the upstream commit, what changed and what did not are recorded in `PROVENANCE.md`.
 
 ## References
 
