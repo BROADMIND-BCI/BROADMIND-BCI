@@ -13,13 +13,6 @@ the BROADMIND brand system: black, white and one grey, set in Geometria, with fu
 (channel identity, error states) kept. A standalone BROADMIND build of `OpenBCI/OpenBCI_GUI`
 (MIT); the upstream commit, what changed and what did not are recorded in `PROVENANCE.md`.
 
-## References
-
-Archived, unmodified forks of the upstream OpenBCI projects. They are kept because they are the
-protocol reference this work was built against — they are not products and are not maintained.
-
-- [BCI_Cyton_Library](https://github.com/BROADMIND-BCI/BCI_Cyton_Library)
-- [BCI_Python](https://github.com/BROADMIND-BCI/BCI_Python)
 
 ## Elsewhere
 
